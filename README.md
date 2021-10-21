@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 👨‍🎓 I’m a student of Sabaragamuwa University of Sri Lanka
 - 🧐 I’m currently learning software development and data communication and network
