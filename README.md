@@ -4,7 +4,7 @@
 
 
 
-- 👨‍🎓 I’m a student of Sabaragamuwa University of Sri Lanka 
+- 👨‍🎓 I’m a student of [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/) 
 - 🧐 I’m currently learning software development and data communication and network           
 - 👯 I’m looking to collaborate on software and mobile applications. 
 - 🤔 I’m looking for  ... opensource projects 💢🔰
