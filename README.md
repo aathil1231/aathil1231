@@ -13,7 +13,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aathil1231&label=Profile%20views&color=0e75b6&style=flat" alt="aathil1231" /></p>
 
-#![Aathil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aathil1231&show_icons=true&theme=radical)
+// ![Aathil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aathil1231&show_icons=true&theme=radical)
 
 
 <h3 align="left">Connect with me:</h3>
